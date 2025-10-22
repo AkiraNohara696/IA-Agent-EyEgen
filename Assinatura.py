@@ -28,13 +28,13 @@ def obter_posicao_atual():
 
 
 # Configuração Gemini 2.5 Pro
-API_KEY_GEMINI = "AIzaSyANpwNp7B1MoMq4QUP83dUQAyflxhEEj-E"
+API_KEY_GEMINI = "SUA CHAVE"
 client = genai.Client(api_key=API_KEY_GEMINI)
 dspy.configure(lm=dspy.LM("gemini-2.5-pro", api_key=API_KEY_GEMINI))
 
 
 # Configuração Google Maps API
-API_KEY_MAPS = "AIzaSyD3fAIwnI8xO_gWfTfbz0mExkey7S63qd8"  # Insira sua chave aqui
+API_KEY_MAPS = "SUA CHAVE"  # Insira sua chave aqui
 maps_api = MapsAPI(API_KEY_MAPS)
 
 
