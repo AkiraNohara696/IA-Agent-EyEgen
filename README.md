@@ -76,15 +76,9 @@ ia.guiar_pessoa(visao_atual, posicao_atual, conhecimento_ambiente, destino)
 
 ---
 
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para enviar Issues e Pull Requests para ajudar a melhorar a solução.
-
----
-
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato: seu.email@email.com
+Para dúvidas ou sugestões, entre em contato: marcosilv090@gmail.com
 
 ---
 
