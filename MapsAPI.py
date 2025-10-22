@@ -23,7 +23,7 @@ class MapsAPI:
 
 # Exemplo rápido de uso
 if __name__ == "__main__":
-    api_key_maps = "AIzaSyD3fAIwnI8xO_gWfTfbz0mExkey7S63qd8"
+    api_key_maps = "SUA CHAVE"
     mapa = MapsAPI(api_key_maps)
     rota = mapa.calcular_rota("Av. Paulista, São Paulo", "Praça da Sé, São Paulo")
     for passo in rota:
